@@ -1,6 +1,5 @@
 # Purpose: Unzip raw data files and copy to s3
-# Author: Gary A. Stafford
-# Date: 2022-12-29
+
 # sh ./raw_date_to_s3.sh
 
 # ** REPLACE ME! **
