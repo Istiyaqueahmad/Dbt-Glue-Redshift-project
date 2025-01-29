@@ -1,6 +1,4 @@
 -- Purpose: Setup new redshift database for dbt demo
--- Author: Gary A. Stafford
--- Date: 2022-12-29
 
 -- optional: drop previous demo database
 drop database demo;
