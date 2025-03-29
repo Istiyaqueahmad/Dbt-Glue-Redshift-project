@@ -1,1 +1,1 @@
-# Dbt-Glue-Redshift-projectt
+# Dbt-Glue-Redshift-project
